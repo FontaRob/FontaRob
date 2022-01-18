@@ -5,4 +5,4 @@ $printer = (Get-Printer -Name "PDF24").Name
 
 Write-Output "Mein Drucker lautet "+ $printer
 
-111
+111111
